@@ -1,0 +1,3 @@
+--jxs: http://www.typescriptlang.org/docs/handbook/jsx.html#introduction
+
+compiler options: http://www.typescriptlang.org/docs/handbook/compiler-options.html
