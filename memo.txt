@@ -1,3 +1,6 @@
 --jxs: http://www.typescriptlang.org/docs/handbook/jsx.html#introduction
 
 compiler options: http://www.typescriptlang.org/docs/handbook/compiler-options.html
+
+
+https://www.w3cschool.cn/typescript/typescript-module-resolution.html
